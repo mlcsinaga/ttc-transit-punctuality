@@ -1,0 +1,40 @@
+# TTC Transit Punctuality Analysis - Python Dependencies
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# GTFS Data Handling
+gtfs-kit>=5.0.0
+
+# Real-time Data
+requests>=2.31.0
+gtfs-realtime-bindings>=1.0.0
+
+# Database
+sqlite3  # Built-in with Python
+
+# Scheduling
+schedule>=1.2.0
+apscheduler>=3.10.0
+
+# Data Validation
+pydantic>=2.0.0
+
+# Configuration
+python-dotenv>=1.0.0
+pyyaml>=6.0
+
+# Logging
+loguru>=0.7.0
+
+# Date/Time Handling
+python-dateutil>=2.8.0
+pytz>=2023.3
+
+# API Calls
+urllib3>=2.0.0
+
+# Development
+ipython>=8.12.0
+jupyter>=1.0.0
