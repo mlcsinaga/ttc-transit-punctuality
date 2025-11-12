@@ -20,6 +20,11 @@ This project provides a data-driven analysis of transit punctuality across Toron
 ### Key Deliverables
 
 ✅ **Interactive Tableau Dashboard** with 3 pages of visualizations  
+  - 📊 **[View Live Dashboard](https://public.tableau.com/app/profile/matthew.sinaga/viz/TTCTransitPunctualityAnalysis/TTCPerformanceOverview)**
+  -     - Features route performance scorecards and KPI metrics
+  -     - Interactive geographic maps showing TTC transit routes
+  -     - On-time percentage breakdowns by bus, streetcar, and subway
+  -     - Hourly and daily reliability trends with custom filters
 ✅ **Python ETL Pipeline** for automated data collection and processing  
 ✅ **SQLite Database** with optimized schema for transit analysis  
 ✅ **Comprehensive Documentation** including setup guides and data dictionary
